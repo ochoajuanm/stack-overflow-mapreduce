@@ -1,8 +1,10 @@
-# Stack Overflow análisis con MapReduce
+[![Stack Overflow](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png)](https://stackoverflow.com/)
+
+# Análisis de Stack Overflow con MapReduce
 
 Análisis de metadata extraída de Stack Overflow a través del paradigma MapReduce de Big Data
 
-## Installation
+## Instalación
 
 Usar [pip](https://pip.pypa.io/en/stable/) para instalar dependencias
 
@@ -24,5 +26,5 @@ Este ejemplo de implementación de MapReduce nos permite conocer tres resultados
 - Tiempo de respuesta promedio eligiendo los primeros 300 y 400 por score de ranking
 
 
-## License
+## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
